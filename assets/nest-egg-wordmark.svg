@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+  <title id="title">Nest Egg</title>
+  <desc id="desc">Wordmark Nest Egg</desc>
+  <rect width="620" height="150" fill="none"/>
+  <g transform="translate(18 18)">
+    <rect width="114" height="114" rx="0" fill="#0E1F1D"/>
+    <path d="M57 18c21 0 38 25 38 54S78 123 57 123 19 101 19 72 36 18 57 18Z" fill="#7C89A6"/>
+    <path d="M40 68c17-22 39-30 67-25-7 19-22 30-43 34-10 2-18-1-24-9Z" fill="#F5F7FB" opacity=".92"/>
+  </g>
+  <text x="154" y="71" fill="#F5F7FB" font-family="Space Grotesk, Work Sans, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1">Nest Egg</text>
+  <text x="157" y="106" fill="#93A2B8" font-family="Work Sans, Arial, sans-serif" font-size="18" font-weight="600">Budget familiare</text>
+</svg>
