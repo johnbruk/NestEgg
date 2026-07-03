@@ -1,0 +1,17 @@
+{
+  "name": "Nest Egg",
+  "short_name": "Nest Egg",
+  "description": "Budget familiare, scadenze, spese ricorrenti e avvisi.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5FAF8",
+  "theme_color": "#12BFA5",
+  "icons": [
+    {
+      "src": "assets/nest-egg-logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
