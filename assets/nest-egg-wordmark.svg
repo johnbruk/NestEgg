@@ -1,12 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 170" role="img" aria-labelledby="title desc">
   <title id="title">Nest Egg</title>
-  <desc id="desc">Wordmark Nest Egg</desc>
-  <rect width="620" height="150" fill="none"/>
-  <g transform="translate(18 18)">
-    <rect width="114" height="114" rx="0" fill="#0E1F1D"/>
-    <path d="M57 18c21 0 38 25 38 54S78 123 57 123 19 101 19 72 36 18 57 18Z" fill="#7C89A6"/>
-    <path d="M40 68c17-22 39-30 67-25-7 19-22 30-43 34-10 2-18-1-24-9Z" fill="#F5F7FB" opacity=".92"/>
+  <desc id="desc">Wordmark Nest Egg con simbolo famiglia e casa</desc>
+  <rect width="700" height="170" fill="none"/>
+  <g transform="translate(10 10)">
+    <rect width="130" height="130" fill="#F4F4F2"/>
+    <path d="M22 56 L65 24 L108 56 L98 56 L65 33 L32 56 Z" fill="#A9B89F"/>
+    <rect x="59" y="46" width="10" height="10" rx="1" fill="#A9B89F"/>
+    <rect x="73" y="46" width="10" height="10" rx="1" fill="#A9B89F"/>
+    <rect x="59" y="60" width="10" height="10" rx="1" fill="#A9B89F"/>
+    <rect x="73" y="60" width="10" height="10" rx="1" fill="#A9B89F"/>
+    <circle cx="42" cy="84" r="10" fill="#5F847D"/>
+    <path d="M26 128 C23 100,31 88,42 88 C53 88,61 100,58 128 Z" fill="#5F847D"/>
+    <circle cx="88" cy="84" r="10" fill="#A7B89A"/>
+    <path d="M72 128 C69 100,77 88,88 88 C99 88,107 100,104 128 Z" fill="#A7B89A"/>
+    <circle cx="65" cy="94" r="8" fill="#719387"/>
+    <path d="M53 128 C51 107,57 100,65 100 C73 100,79 107,77 128 Z" fill="#719387"/>
   </g>
-  <text x="154" y="71" fill="#F5F7FB" font-family="Space Grotesk, Work Sans, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1">Nest Egg</text>
-  <text x="157" y="106" fill="#93A2B8" font-family="Work Sans, Arial, sans-serif" font-size="18" font-weight="600">Budget familiare</text>
+  <text x="165" y="76" fill="#4F6F69" font-family="Space Grotesk, Work Sans, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.2">Nest Egg</text>
+  <text x="168" y="111" fill="#8A978D" font-family="Work Sans, Arial, sans-serif" font-size="20" font-weight="600">Budget familiare</text>
 </svg>
