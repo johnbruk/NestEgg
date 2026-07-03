@@ -4,8 +4,8 @@
   "description": "Budget familiare, scadenze, spese ricorrenti e avvisi.",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#F5FAF8",
-  "theme_color": "#12BFA5",
+  "background_color": "#F5F6F2",
+  "theme_color": "#5F847D",
   "icons": [
     {
       "src": "assets/nest-egg-logo.svg",
