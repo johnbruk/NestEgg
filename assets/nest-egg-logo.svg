@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Nest Egg</title>
+  <desc id="desc">Logo Nest Egg con uovo e foglia</desc>
+  <rect width="256" height="256" rx="58" fill="#0E1F1D"/>
+  <path d="M128 42c34 0 62 41 62 88 0 48-28 84-62 84s-62-36-62-84c0-47 28-88 62-88Z" fill="#12BFA5"/>
+  <path d="M101 119c24-33 56-45 97-37-10 28-31 45-61 50-14 2-26-1-36-13Z" fill="#E7FFF8" opacity=".92"/>
+  <path d="M91 169c26 24 61 24 88 0" fill="none" stroke="#0E1F1D" stroke-width="12" stroke-linecap="round" opacity=".28"/>
+  <circle cx="113" cy="99" r="10" fill="#0E1F1D" opacity=".22"/>
+</svg>
